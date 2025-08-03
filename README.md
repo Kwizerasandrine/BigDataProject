@@ -45,5 +45,3 @@ This project analyzes Uber fare data to uncover pricing patterns, ride demand tr
 
 ---
 
-## 📂 Repository Structure
-
